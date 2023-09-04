@@ -5,7 +5,7 @@ import HeroImage from "../assets/img/hero.png";
 const HomePage = () => {
   return (
     <div className="homepage">
-      <header className="headerHome ">
+      <header className="headerHome w-100 min-vh-100">
         <Container>
           <Row className="header-box">
             <Col>
